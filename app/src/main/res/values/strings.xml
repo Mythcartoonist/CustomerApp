@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CustomerApp</string>
+    <string name="name">Name</string>
+    <string name="login">Logged In: JDOE</string>
+    <string name="phone">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="zip_code">Zip Code</string>
+    <string name="credit_card">Credit Card Number</string>
+    <string name="security_code">Security Code</string>
+    <string name="date">Date</string>
+    <string name="submit">Submit</string>
+    <string name="cust_placeholder">Customer</string>
+    <string name="sess_placeholder">Session</string>
+    <string name="new_sess">New Session</string>
+    <string name="completed">Completed?</string>
+    <string name="btn_change_picture">Change Picture</string>
+    <string name="btn_edit_billing">Edit Billing</string>
+    <string name="btn_new_cust">New Customer</string>
+    <string name="btn_view_cust">View Customers</string>
+    <string name="btn_view">View Sessions</string>
+
+</resources>
